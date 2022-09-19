@@ -9,9 +9,9 @@
 <body>
     <form method="post" action="skaiciuok.php">
         <input type="text" name="skaicius1">
+        <input type="text" name="veiksmas">
         <input type="text" name="skaicius2">
-        <button type="submit" name="veiksmas" value="sudek">Sudėk</button>
-        <button type="submit" name="veiksmas" value="atimk">Atimk</button>
+        <button type="submit">Skaiciuok</button>
     </form>
 </body>
 </html>
